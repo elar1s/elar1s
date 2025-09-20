@@ -15,7 +15,6 @@ I work on many different C# projects<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elar1s&theme=tokyonight&exclude=)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elar1s&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elar1s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://media1.tenor.com/m/gKgsJGgyAFcAAAAd/fate-grand-order-babylonia-ereshkigal.gif)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elar1s&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/>
 
